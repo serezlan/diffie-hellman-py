@@ -5,7 +5,7 @@ class DFTest:
     def __init__(self, g, p, pk1, pk2, pb1, pb2, s):
         # Generator
         self.g = g
-        # common key, modulus
+        # common pb_ry, modulus
         self.p = p
         # private keys
         self.pk1 = pk1
